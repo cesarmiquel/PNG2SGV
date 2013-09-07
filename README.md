@@ -16,6 +16,6 @@ to standard out an SVG image. If I want to convert the file mario.png to SVG all
 
 You can open the resulting image with Inkscape. The sample output looks like this:
 
-![Sample output](https://a248.e.akamai.net/assets.github.com/img/276ca7d5eb24a474a0e89b929be7c1fcfe5eb82f/687474703a2f2f6934302e74696e797069632e636f6d2f313431316737372e706e67 "Sample output")
+![Sample output](http://31.media.tumblr.com/tumblr_luzxkvNeGD1qcm4xbo4_500.png "Sample output")
 
 The only requirement is that PHP must be compiled with GD support.
